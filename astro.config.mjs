@@ -10,10 +10,10 @@ export default defineConfig({
 			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/withastro/starlight' }],
 			sidebar: [
 				{
-					label: 'Guides',
+					label: 'Einstieg',
 					items: [
 						// Each item here is one entry in the navigation menu.
-						{ label: 'Example Guide', slug: 'guides/example' },
+						{ label: 'Anmeldung Einstieg', slug: 'einstieg/anmeldung' },
 					],
 				},
 				{
