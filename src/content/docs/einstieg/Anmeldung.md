@@ -9,7 +9,7 @@ sequence: 10
 ref: login
 ---
 
-## Schritte
+## Schritte Test
 
 ### Anmeldung als Nutzer
 
@@ -24,7 +24,7 @@ ref: login
 1. Melde Dich mit dem **Benutzernamen** `metasfresh` und dem **Passwort** `metasfresh` an.
    > **Wichtig:** Beachte beim Benutzernamen und Passwort die **_Groß- und Kleinschreibung_**!
 
-| **Hinweis:**                                                                                                                                                                                                                                                    |
+| **Hinweis: Hallo**                                                                                                                                                                                                                                              |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Für diesen Nutzer kann die Sprache der Benutzeroberfläche im WebUI nicht so geändert werden, wie es im Back-end des Java Clients möglich ist. Zum Ändern der Sprache dieses Nutzers, siehe [hier](../../support_collection/en/change_language_metasfresh_user). |
 
